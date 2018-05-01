@@ -19,6 +19,10 @@ public class Vehicle {
         this.speed = 60;
     }
     
+    
+    /*
+    make changes
+    */
     public Integer accelarate() {
         int nspeed;
         int speedincrement = 10;
